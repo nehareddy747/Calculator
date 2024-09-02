@@ -12,5 +12,26 @@ This is a simple calculator application built using Java Swing. The calculator c
 - Responsive GUI: Built using Java Swing with a simple and clean user interface.
 
 ##Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/85776fcf-e7a5-4a50-9123-e5a6d6519b9b)
 
