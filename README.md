@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e3904475-efcf-45d0-a597-8597df09296e)# Calculator
+## Calculator
 
 This is a simple calculator application built using Java Swing. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes functionality for decimal input, negation, clearing the display, and deleting the last character.
 
